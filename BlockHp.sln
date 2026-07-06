@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockHp", "BlockHp.csproj", "{641B95ED-9609-4138-A899-FD34903C4158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{641B95ED-9609-4138-A899-FD34903C4158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641B95ED-9609-4138-A899-FD34903C4158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641B95ED-9609-4138-A899-FD34903C4158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641B95ED-9609-4138-A899-FD34903C4158}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F31CDF-397C-4406-AD75-8C7C18DC3E15}
+	EndGlobalSection
+EndGlobal
